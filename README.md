@@ -23,5 +23,6 @@
 
 <h2 align="center">Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRealPear&show_icons=true&theme=vue" alt="TheRealPear's GitHub stats"/>
+  <!-- TODO: change card colors based on light and dark mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRealPear&count_private=true&show_icons=true&theme=vue" alt="TheRealPear's GitHub stats"/>
 </p>
