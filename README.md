@@ -1,5 +1,5 @@
 <h1 align="center">🍐 TheRealPear</h1>
-<p align="center">Hi, I'm Pear. I consider myself as a beginner in a few programming languages. I tend to work on projects whenever I feel like it. Most of my projects on GitHub are currently private. I might make them public when I feel like it is ready.<p>
+<p align="center">Hi, I'm Pear. I consider myself as a beginner in a few programming languages. I tend to work on mostly private projects at random on GitHub.<p>
 
 <h2 align="center">What I'm currently learning...</h2>
 <p align="center">
