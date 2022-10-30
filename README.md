@@ -37,8 +37,11 @@
 </p>
 
 <h2 align="center">Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRealPear&count_private=true&show_icons=true&theme=vue&bg_color=00000000" alt="TheRealPear's GitHub stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealPear&layout=compact&theme=vue&bg_color=00000000" alt="TheRealPear's top languages"/>
-</p>
+<details>
+    <summary>Click me to view statistics</summary>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TheRealPear&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=777&border_color=444" alt="TheRealPear's GitHub stats"/>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealPear&layout=compact&theme=vue&bg_color=00000000&text_color=777&border_color=444" alt="TheRealPear's top languages"/>
+    </p>
+</details>
