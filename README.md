@@ -32,7 +32,7 @@
 
 <h2 align="center">Reach me on...</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-Pear%237389-5865F2?style=for-the-badge&logo=discord&logoColor=f5f5f5" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-therealpear-5865F2?style=for-the-badge&logo=discord&logoColor=f5f5f5" alt="Discord"/>
   <a href="https://steamcommunity.com/id/pearific/" rel="noopener noreferrer nofollow" target="_blank"><img src="https://img.shields.io/badge/Steam-Pearific-000.svg?&style=for-the-badge&logo=steam" alt="Steam"/></a>
 </p>
 
