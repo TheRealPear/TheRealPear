@@ -1,5 +1,5 @@
 <h1 align="center">🍐 TheRealPear</h1>
-<p>I'm Pear (he/him), a computer enthusiast and a beginner in some programming languages (something I would like to improve on in the future). As I start my first few years in college, I hope to major in the computer science field, mainly cybersecurity, and programming.<p>
+<p>I'm Pear, a computer enthusiast and a beginner in some programming languages (something I would like to improve on in the future). As I start my first few years in college, I hope to major in the computer science field, mainly cybersecurity, and programming.<p>
 <p>I have been a map developer for <a href="https://github.com/Warzone">Warzone</a> since May 2022 and for <a href="https://github.com/OvercastCommunity">Overcast Community</a> since February 2023. Since then, I have reviewed and worked on hundreds of Minecraft maps from these servers. In my free time, I try to volunteer by improving documentation on various projects and helping mapmakers with creating XML documents, as well as wasting my time playing video games and coding in several of my hidden repositories.<p>
 
 <h2 align="center">Expertise</h2>
@@ -38,7 +38,7 @@
 
 <h2 align="center">Statistics</h2>
 <details>
-    <summary>Click me to view statistics</summary>
+    <summary>Click to view statistics</summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=TheRealPear&count_private=true&show_icons=true&theme=vue&bg_color=00000000&text_color=777&hide_border=true" alt="TheRealPear's GitHub stats"/>
         <br />
