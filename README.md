@@ -1,6 +1,6 @@
 <h1 align="center">🍐 TheRealPear</h1>
-<p>I'm Pear, a computer enthusiast and a beginner in some programming languages (something I would like to improve on in the future). As I start my first few years in college, I hope to major in the computer science field, mainly cybersecurity, and programming.<p>
-<p>I have been a map developer for <a href="https://github.com/Warzone">Warzone</a> since May 2022 and for <a href="https://github.com/OvercastCommunity">Overcast Community</a> since February 2023. Since then, I have reviewed and worked on hundreds of Minecraft maps from these servers. In my free time, I try to volunteer by improving documentation on various projects and helping mapmakers with creating XML documents, as well as wasting my time playing video games and coding in several of my hidden repositories.<p>
+<p>I'm Pear, a computer enthusiast and a beginner in some programming languages (something I would like to improve on in the future). As I get into college, I am hoping to major in the computer science field, mainly cybersecurity and programming.<p>
+<p>I have been a map developer for <a href="https://github.com/Warzone">Warzone</a> since May 2022 and for <a href="https://github.com/OvercastCommunity">Overcast Community</a> since February 2023. Since then, I have reviewed and worked on hundreds of Minecraft maps from these servers.<p>
 
 <h2 align="center">Expertise</h2>
 <h3 align="center">What I'm currently learning...</h2>
@@ -14,6 +14,7 @@
 <h3 align="center">Things that I'll get to learning someday...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-2F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/bun-F9F1E1.svg?&style=for-the-badge&logo=bun&logoColor=black" alt="Bun"/>
   <img src="https://img.shields.io/badge/Java-EC2025.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/>
@@ -24,6 +25,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Rust-000.svg?&style=for-the-badge&logo=Rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+</p>
+<p align="center">
+  <sup>I still don't know anything useful, sorry.</sup>
 </p>
 
 <h2 align="center">Reach me on...</h2>
