@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS"/>
+  <img src="https://img.shields.io/badge/Java-EC2025.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/>
 </p>
 
 <h3 align="center">Things that I'll get to learning someday...</h3>
@@ -16,8 +17,6 @@
   <img src="https://img.shields.io/badge/TypeScript-2F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/bun-F9F1E1.svg?&style=for-the-badge&logo=bun&logoColor=black" alt="Bun"/>
-  <img src="https://img.shields.io/badge/Java-EC2025.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin"/>
   <br />
   <img src="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"/>
