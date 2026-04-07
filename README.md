@@ -1,6 +1,6 @@
 <h1 align="center">🍐 TheRealPear</h1>
 <p>I'm Pear, a computer enthusiast and a beginner in some programming languages (something I would like to improve on when I get the time). I am majoring in applied computer science with a concentration in cybersecurity.<p>
-<p>I have been a map developer for <a href="https://github.com/Warzone">Warzone</a> since May 2022 and for <a href="https://github.com/OvercastCommunity">Overcast Community</a> since February 2023. Since then, I have reviewed and worked on hundreds of Minecraft maps from these servers.<p>
+<p>I have been a map developer for <a href="https://github.com/Warzone">Warzone</a> since May 2022 and for <a href="https://github.com/OvercastCommunity">Overcast Community</a> from February 2023 to April 2026. Since then, I have reviewed and worked on hundreds of Minecraft maps from these servers.<p>
 
 <!-- <h2 align="center">Expertise</h2>
 <h3 align="center">What I'm currently learning...</h2>
